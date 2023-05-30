@@ -1,0 +1,79 @@
+body {
+    background-color: #fff; /* Cor de fundo branca */
+    color: #333; /* Cor do texto principal */
+  }
+  
+  header {
+    background-color: #1470a8; /* Azul escuro para o cabeçalho */
+    padding: 20px;
+    color: #fff;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  
+  section#banner {
+    background-color: #2b90d9; /* Azul médio para a seção de banner */
+    padding: 40px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  section#destaques {
+    background-color: #ebf3f9; /* Azul claro para a seção de destaques */
+    padding: 20px;
+  }
+  
+  section#destaques h2 {
+    color: #1470a8;
+  }
+  
+  section#destaques .destaque {
+    margin-bottom: 20px;
+  }
+  
+  section#destaques .destaque h3 {
+    color: #1470a8;
+  }
+  
+  section#noticias {
+    background-color: #f5f9fd; /* Azul muito claro para a seção de notícias */
+    padding: 20px;
+  }
+  
+  section#noticias h2 {
+    color: #1470a8;
+  }
+  
+  section#noticias .noticia {
+    margin-bottom: 20px;
+  }
+  
+  section#noticias .noticia h3 {
+    color: #1470a8;
+  }
+  
+  footer {
+    background-color: #1470a8; /* Azul escuro para o rodapé */
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
